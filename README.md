@@ -3,7 +3,7 @@
 ![Spam_Email_Detection](https://user-images.githubusercontent.com/84613393/236608566-67b3db3e-9e3e-43bb-9cf1-7ac6e3df2c74.png)
 
 # 🖊 Brief Intro 
-This is a small AI tool which on the basis of various features extracted, tell whether the mail inserted is spam or not. 
+This is a small AI tool which on the basis of various features extracted, tells whether the mail inserted is spam or not. 
 
 ## 📌 Importance
 Such tools are useful in filtering out unwanted messages, protecting against phishing attacks, improving network security, reducing server load etc.
